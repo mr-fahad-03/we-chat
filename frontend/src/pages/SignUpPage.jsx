@@ -140,9 +140,7 @@ const SignUpPage = () => {
             </p>
           </div>
         </div>
-        <footer className="fixed bottom-0 w-full text-center py-3  font-semibold">
-                Created By Mr ~FZ
-            </footer>
+      
       </div>
 
       {/* right side */}
