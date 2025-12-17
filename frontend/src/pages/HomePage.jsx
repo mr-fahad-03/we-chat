@@ -18,9 +18,7 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-      <footer className="text-center py-4  font-semibold">
-                Created By Mr ~FZ
-            </footer>
+    
     </div>
   );
 };
